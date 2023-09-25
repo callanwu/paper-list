@@ -1,2 +1,4 @@
 - Survey
-  - [Hallucination in Large Language Models](https://arxiv.org/pdf/2309.01219.pdf)
+  - [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/pdf/2309.01219.pdf)
+- Parameter-Efficient Fine-Tuning
+  - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf)
