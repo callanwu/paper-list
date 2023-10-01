@@ -4,3 +4,5 @@
   - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf)
 - Attack
   - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
+- Fun
+  - [Pretraining on the Test Set Is All You Need](https://arxiv.org/pdf/2309.08632.pdf)
