@@ -7,5 +7,7 @@
   - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
 - Model Editing
   - [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/pdf/2305.13172.pdf)
+- Causal Inference
+  - [Psychologically-Inspired Causal Prompts](https://arxiv.org/pdf/2305.01764.pdf)
 - Fun
   - [Pretraining on the Test Set Is All You Need](https://arxiv.org/pdf/2309.08632.pdf)
