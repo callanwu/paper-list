@@ -5,6 +5,7 @@
   - [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://browse.arxiv.org/pdf/2309.12307.pdf)
 - Attack
   - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
+  - [Catastrophic (😔) Jailbreak of Open-source LLMs via Exploiting Generation](https://arxiv.org/pdf/2310.06987.pdf)
 - Model Editing
   - [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/pdf/2305.13172.pdf)
   - [Can We Edit Multimodal Large Language Models?](https://arxiv.org/pdf/2310.08475.pdf)
