@@ -1,5 +1,7 @@
-- Survey
+- Hallucination
   - [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/pdf/2309.01219.pdf)
+- Retrieval-Augmented Generation
+  - [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/pdf/2309.01431.pdf)
 - Parameter-Efficient Fine-Tuning
   - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf)
   - [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://browse.arxiv.org/pdf/2309.12307.pdf)
