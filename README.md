@@ -7,7 +7,10 @@
   - [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://browse.arxiv.org/pdf/2309.12307.pdf)
 - Attack
   - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
+  - [AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/pdf/2310.04451.pdf)
   - [Catastrophic (😔) Jailbreak of Open-source LLMs via Exploiting Generation](https://arxiv.org/pdf/2310.06987.pdf)
+
+**Jailbreak in LLM is really intersting, there isn't a repo to collect related these papers yet, I'll start a separate repo to collect them afterward.**
 - Model Editing
   - [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/pdf/2305.13172.pdf)
   - [Can We Edit Multimodal Large Language Models?](https://arxiv.org/pdf/2310.08475.pdf)
