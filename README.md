@@ -3,6 +3,7 @@
 - Retrieval-Augmented Generation
   - [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/pdf/2309.01431.pdf)
   - [Query Rewriting for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2305.14283.pdf)
+  - [LLM Self-Reflective Retrieval-Augmented Generation](https://arxiv.org/pdf/2310.11511.pdf)
 - Parameter-Efficient Fine-Tuning
   - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/pdf/2303.16199.pdf)
   - [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://browse.arxiv.org/pdf/2309.12307.pdf)
