@@ -17,6 +17,7 @@
   - [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/pdf/2305.13172.pdf)
   - [Can We Edit Multimodal Large Language Models?](https://arxiv.org/pdf/2310.08475.pdf)
   - [Locating and Editing Factual Associations in GPT](https://arxiv.org/pdf/2202.05262.pdf)
+  - [Emptying the Ocean with a Spoon: Should We Edit Models?](https://arxiv.org/pdf/2310.11958.pdf)
 - Causal Inference
   - [Psychologically-Inspired Causal Prompts](https://arxiv.org/pdf/2305.01764.pdf)
 - Fun
