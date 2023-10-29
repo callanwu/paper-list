@@ -1,5 +1,7 @@
 - Hallucination
   - [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/pdf/2309.01219.pdf)
+  - [LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples](https://arxiv.org/pdf/2310.01469.pdf)
+
 - Retrieval-Augmented Generation
   - [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/pdf/2309.01431.pdf)
   - [Query Rewriting for Retrieval-Augmented Large Language Models](https://arxiv.org/pdf/2305.14283.pdf)
@@ -11,7 +13,8 @@
   - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
   - [AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/pdf/2310.04451.pdf)
   - [Catastrophic (😔) Jailbreak of Open-source LLMs via Exploiting Generation](https://arxiv.org/pdf/2310.06987.pdf)
-
+  - [LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples](https://arxiv.org/pdf/2310.01469.pdf)
+  
 **Jailbreak in LLM is really intersting, there isn't a repo to collect related these papers yet, I'll start a separate repo to collect them afterward.**
 - Model Editing
   - [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/pdf/2305.13172.pdf)
