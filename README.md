@@ -26,5 +26,6 @@
   - [Emptying the Ocean with a Spoon: Should We Edit Models?](https://arxiv.org/pdf/2310.11958.pdf)
 - Causal Inference
   - [Psychologically-Inspired Causal Prompts](https://arxiv.org/pdf/2305.01764.pdf)
+  - [Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection](https://aclanthology.org/2023.acl-long.37.pdf)
 - Fun
   - [Pretraining on the Test Set Is All You Need](https://arxiv.org/pdf/2309.08632.pdf)
