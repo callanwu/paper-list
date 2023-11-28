@@ -21,7 +21,7 @@
   - [Catastrophic (😔) Jailbreak of Open-source LLMs via Exploiting Generation](https://arxiv.org/pdf/2310.06987.pdf)
   - [LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples](https://arxiv.org/pdf/2310.01469.pdf)
   - [Fine-tuning Aligned Language Models Compromises Safety,Even When Users Do Not Intend To!](https://arxiv.org/pdf/2310.03693.pdf)
-  
+  - [Language Model Inversion](https://openreview.net/pdf?id=t9dWHpGkPj)
 **Jailbreak in LLM is really intersting, there isn't a repo to collect related these papers yet, I'll start a separate repo to collect them afterward.**
 - Model Editing
   - [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/pdf/2305.13172.pdf)
