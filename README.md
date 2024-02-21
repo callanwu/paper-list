@@ -38,6 +38,6 @@
 - Constrained Generation
   - [Autoregressive Entity Retrieval](https://arxiv.org/pdf/2010.00904.pdf)
   - [COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics](https://arxiv.org/pdf/2202.11705.pdf)
-  - [https://arxiv.org/pdf/2106.09232.pdf](https://arxiv.org/pdf/2106.09232.pdf)
+  - [TEXT2EVENT: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction](https://arxiv.org/pdf/2106.09232.pdf)
 - Fun
   - [Pretraining on the Test Set Is All You Need](https://arxiv.org/pdf/2309.08632.pdf)
