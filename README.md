@@ -34,5 +34,9 @@
   - [Psychologically-Inspired Causal Prompts](https://arxiv.org/pdf/2305.01764.pdf)
   - [Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection](https://aclanthology.org/2023.acl-long.37.pdf)
   - [Contextual Debiasing for Visual Recognition with Causal Mechanisms](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Contextual_Debiasing_for_Visual_Recognition_With_Causal_Mechanisms_CVPR_2022_paper.pdf)
+  
+- Constrained Generation
+  - [Autoregressive Entity Retrieval](https://arxiv.org/pdf/2010.00904.pdf)
+  - [COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics](https://arxiv.org/pdf/2202.11705.pdf)
 - Fun
   - [Pretraining on the Test Set Is All You Need](https://arxiv.org/pdf/2309.08632.pdf)
