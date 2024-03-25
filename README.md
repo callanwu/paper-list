@@ -19,7 +19,9 @@
   - [LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment](https://arxiv.org/abs/2312.09979)
   - [LoraRetriever: Input-Aware LoRA Retrieval and Composition for Mixed Tasks in the Wild](https://arxiv.org/pdf/2402.09997.pdf)
   - [DeMuX: Data-efficient Multilingual Learning](https://arxiv.org/pdf/2311.06379.pdf)
-    
+  - [LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation](https://arxiv.org/pdf/2402.07721.pdf)
+  - [AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.10512.pdf)
+
 - Attack
   - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
   - [AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/pdf/2310.04451.pdf)
