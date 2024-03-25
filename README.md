@@ -21,6 +21,7 @@
   - [DeMuX: Data-efficient Multilingual Learning](https://arxiv.org/pdf/2311.06379.pdf)
   - [LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation](https://arxiv.org/pdf/2402.07721.pdf)
   - [AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.10512.pdf)
+  - [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/pdf/2402.12354.pdf)
 
 - Attack
   - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)
