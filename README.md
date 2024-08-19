@@ -50,7 +50,10 @@
 
 - Agent
   - [Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models](https://arxiv.org/pdf/2403.12881.pdf)
-
+  - [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://arxiv.org/pdf/2307.12856)
+  - [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://arxiv.org/pdf/2306.07863)
+  - [Agentless: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/pdf/2407.01489)
+  
 - Regulation
   - [LLM can Achieve Self-Regulation via Hyperparameter Aware Generation](https://arxiv.org/pdf/2402.11251.pdf)
   
