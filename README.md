@@ -59,3 +59,14 @@
   
 - Fun
   - [Pretraining on the Test Set Is All You Need](https://arxiv.org/pdf/2309.08632.pdf)
+ 
+- RAG Evaluation
+  - [RAGCHECKER: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation](https://arxiv.org/pdf/2408.08067)
+  - [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://arxiv.org/pdf/2309.15217)
+
+- Tool Retrieval
+  - [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/pdf/2307.16789)
+  - [Towards Completeness-Oriented Tool Retrieval for Large Language Models](https://arxiv.org/pdf/2405.16089)
+  - [Enhancing Tool Retrieval with Iterative Feedback from Large Language Models](https://arxiv.org/pdf/2406.17465)
+  - [Efficient and Scalable Estimation of Tool Representations in Vector Space](https://arxiv.org/pdf/2409.02141)
+  - [ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval](https://arxiv.org/pdf/2403.06551)
